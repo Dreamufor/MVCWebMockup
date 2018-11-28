@@ -1,0 +1,139 @@
+<?xml version="1.0"?>
+<ArrayOfAnyType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <anyType xsi:type="AnyText">
+    <elPosX>584</elPosX>
+    <elPosY>163</elPosY>
+    <elWidth>-1</elWidth>
+    <elHeight>-1</elHeight>
+    <elName>Text</elName>
+    <elText>Email:</elText>
+  </anyType>
+  <anyType xsi:type="AnyText">
+    <elPosX>534</elPosX>
+    <elPosY>215</elPosY>
+    <elWidth>-1</elWidth>
+    <elHeight>-1</elHeight>
+    <elName>Text</elName>
+    <elText>Password:</elText>
+  </anyType>
+  <anyType xsi:type="AnyLine">
+    <elPosX>678</elPosX>
+    <elPosY>193</elPosY>
+    <elWidth>200</elWidth>
+    <elHeight>-1</elHeight>
+    <elName>Line</elName>
+    <elIsSolid>true</elIsSolid>
+  </anyType>
+  <anyType xsi:type="AnyLine">
+    <elPosX>679</elPosX>
+    <elPosY>243</elPosY>
+    <elWidth>200</elWidth>
+    <elHeight>-1</elHeight>
+    <elName>Line</elName>
+    <elIsSolid>true</elIsSolid>
+  </anyType>
+  <anyType xsi:type="AnyButton">
+    <elPosX>669</elPosX>
+    <elPosY>278</elPosY>
+    <elWidth>150</elWidth>
+    <elHeight>50</elHeight>
+    <elName>Button</elName>
+    <color>-16744384</color>
+  </anyType>
+  <anyType xsi:type="AnyText">
+    <elPosX>30</elPosX>
+    <elPosY>61</elPosY>
+    <elWidth>-1</elWidth>
+    <elHeight>-1</elHeight>
+    <elName>Text</elName>
+    <elText>Home</elText>
+  </anyType>
+  <anyType xsi:type="AnyText">
+    <elPosX>130</elPosX>
+    <elPosY>61</elPosY>
+    <elWidth>-1</elWidth>
+    <elHeight>-1</elHeight>
+    <elName>Text</elName>
+    <elText>About</elText>
+  </anyType>
+  <anyType xsi:type="AnyText">
+    <elPosX>227</elPosX>
+    <elPosY>59</elPosY>
+    <elWidth>-1</elWidth>
+    <elHeight>-1</elHeight>
+    <elName>Text</elName>
+    <elText>Contact</elText>
+  </anyType>
+  <anyType xsi:type="AnyText">
+    <elPosX>366</elPosX>
+    <elPosY>11</elPosY>
+    <elWidth>-1</elWidth>
+    <elHeight>-1</elHeight>
+    <elName>Text</elName>
+    <elText>Welcome!</elText>
+  </anyType>
+  <anyType xsi:type="AnyText">
+    <elPosX>671</elPosX>
+    <elPosY>61</elPosY>
+    <elWidth>-1</elWidth>
+    <elHeight>-1</elHeight>
+    <elName>Text</elName>
+    <elText>Login</elText>
+  </anyType>
+  <anyType xsi:type="AnyText">
+    <elPosX>762</elPosX>
+    <elPosY>62</elPosY>
+    <elWidth>-1</elWidth>
+    <elHeight>-1</elHeight>
+    <elName>Text</elName>
+    <elText>Register</elText>
+  </anyType>
+  <anyType xsi:type="AnyLine">
+    <elPosX>27</elPosX>
+    <elPosY>107</elPosY>
+    <elWidth>850</elWidth>
+    <elHeight>-1</elHeight>
+    <elName>Line</elName>
+    <elIsSolid>true</elIsSolid>
+  </anyType>
+  <anyType xsi:type="AnyImage">
+    <elPosX>381</elPosX>
+    <elPosY>337</elPosY>
+    <elWidth>120</elWidth>
+    <elHeight>160</elHeight>
+    <elName>Image</elName>
+    <elIsSquare>false</elIsSquare>
+  </anyType>
+  <anyType xsi:type="AnyImage">
+    <elPosX>41</elPosX>
+    <elPosY>137</elPosY>
+    <elWidth>150</elWidth>
+    <elHeight>150</elHeight>
+    <elName>Image</elName>
+    <elIsSquare>true</elIsSquare>
+  </anyType>
+  <anyType xsi:type="AnyImage">
+    <elPosX>219</elPosX>
+    <elPosY>270</elPosY>
+    <elWidth>120</elWidth>
+    <elHeight>160</elHeight>
+    <elName>Image</elName>
+    <elIsSquare>false</elIsSquare>
+  </anyType>
+  <anyType xsi:type="AnyLine">
+    <elPosX>28</elPosX>
+    <elPosY>542</elPosY>
+    <elWidth>850</elWidth>
+    <elHeight>-1</elHeight>
+    <elName>Line</elName>
+    <elIsSolid>true</elIsSolid>
+  </anyType>
+  <anyType xsi:type="AnyText">
+    <elPosX>358</elPosX>
+    <elPosY>553</elPosY>
+    <elWidth>-1</elWidth>
+    <elHeight>-1</elHeight>
+    <elName>Text</elName>
+    <elText>@2018-mu</elText>
+  </anyType>
+</ArrayOfAnyType>
